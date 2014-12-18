@@ -1,0 +1,8 @@
+prefix=/home/pelkalinux/Dokumenty/QR_codeGit/QR_code/qr_code_ws/install
+
+Name: qr_code_pkg
+Description: Description of qr_code_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pelkalinux/Dokumenty/QR_codeGit/QR_code/qr_code_ws/install/lib 
+Requires: 

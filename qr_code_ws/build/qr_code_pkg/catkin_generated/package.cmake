@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "qr_code_pkg")
+set(qr_code_pkg_MAINTAINER "pelkalinux <krzysztofpelczynski1991@gmail.com>, limek <limek91@gmail.com>")
+set(qr_code_pkg_DEPRECATED "")
+set(qr_code_pkg_VERSION "0.0.0")
+set(qr_code_pkg_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(qr_code_pkg_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(qr_code_pkg_BUILDTOOL_DEPENDS "catkin")
